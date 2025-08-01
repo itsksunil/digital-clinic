@@ -11,7 +11,7 @@ if "feedbacks" not in st.session_state:
     st.session_state.feedbacks = []
 
 # Title
-st.title("🩺 Orthopedic Doctor Online Appointment System")
+st.title("🩺 Dr Vinay Kumar MBBS 10 Ortho Orthopedic Doctor Online Appointment System")
 
 # Sidebar: Stats and Payment
 st.sidebar.header("Doctor Dashboard")
